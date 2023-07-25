@@ -228,6 +228,7 @@ background: rgba(39, 39, 39, 0.20);
 padding-bottom: 20px;
 }
 .bonus-heading{
+    padding-top: 30px;
     text-align: center;
     color: #272727;
 font-size: 80px;
@@ -236,7 +237,7 @@ font-weight: bold;
 }
 .icon{
     width:160px;
-    margin-bottom: -10pxpx;
+    margin-bottom: -10px;
 }
 
 .bonus-box{
