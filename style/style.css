@@ -45,7 +45,8 @@
 /* section styles */
 
 .second-section{
-    height: 100vh;
+    height: 50vh;
+    margin-top: auto;
 }
 
 .photo-section2{
