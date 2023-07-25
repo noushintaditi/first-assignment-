@@ -198,9 +198,48 @@ font-style: normal;
 font-weight: 400;
 padding-left: 15px;
 }
+.bonus-part{
+    width: 100%;
+    height: 700px;
+background: rgba(39, 39, 39, 0.20);
+}
+.bonus-heading{
+    text-align: center;
+    color: #272727;
+font-size: 80px;
+font-style: normal;
+font-weight: bold;
+}
+.icon{
+    width:160px;
+    margin-bottom: -10pxpx;
+}
+
+.bonus-box{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.bb1{
+    width: 300px;
+    height: 250px;
+    padding: 50px;
+    background-color: rgba(24, 231, 242, 0.02);
+    text-align: center;
+    border-radius: 5px;
+    box-shadow: 8px 8px 16px gray;
+}
 
 
 
+
+
+
+
+
+
+/* foot part */
 .foot{
     width: 100%;
     height: 500px;
